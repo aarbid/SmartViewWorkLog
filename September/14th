@@ -1,0 +1,4 @@
+Continued working on project to make a program that can delete all files/registry keys involved with Smartview
+Added funcionality for the removal of registry keys
+Implemented DataGridView rather than TextBox to allow for check boxes to use as booleans, rather than needing to use a separate array, as well as the ability to denote if fire or registry key is being deleted
+Researched registry to understand difference between registry keys and values
