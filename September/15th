@@ -1,0 +1,4 @@
+Modified UI of SmarView project to remove white space
+Added functionality for deleting individual registry values (ultimately not used) as well as registry keys
+Added functionality for delting entire folders, rather than just single files
+Researched more on fiddler documentation
