@@ -1,0 +1,3 @@
+Added functionality for unregistering from COM servers
+Made it so that program now works on any user rather than just own machine
+Changed file to include more registry keys to delete
