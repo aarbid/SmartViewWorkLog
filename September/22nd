@@ -1,0 +1,4 @@
+Finished Adding other column to denote status of files/registry keys, as well as made it automatically update after running the program
+Hardcoded a default version of json file as a backup, in case file is deleted, which is read and used properly
+Added export button that converts default json file
+Researched exporting of registry keys using C#
